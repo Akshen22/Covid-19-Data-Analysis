@@ -10,3 +10,5 @@ Steps to start with data analyst:
 (4) View the data, copy paste the path file in jupyter.
 
 (5) In the end work on differnt modules, for reference, visit: Covid-19-checkpoint.ipynb.
+
+Get connected with me on insta: @akshen_dhami for any queries.
